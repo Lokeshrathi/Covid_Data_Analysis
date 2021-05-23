@@ -7,3 +7,4 @@ Data Source [Link](https://github.com/owid/covid-19-data/tree/master/public/data
 Meta Data [Link](https://github.com/owid/covid-19-data/blob/master/public/data/owid-covid-codebook.csv)
 
 Graphs:
+![](https://github.com/Lokeshrathi/Covid_Data_Analysis/blob/main/newplot.png)
