@@ -13,3 +13,6 @@ Graphs:
 2.
 ![](https://github.com/Lokeshrathi/Covid_Data_Analysis/blob/main/newplot%20(2).png)
 
+3.
+![](https://github.com/Lokeshrathi/Covid_Data_Analysis/blob/main/share-people-fully-vaccinated-covid.png)
+
